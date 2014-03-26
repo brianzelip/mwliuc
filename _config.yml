@@ -1,0 +1,7 @@
+name:          Made With $hearts; in Urbana-Champaign
+description:   Curating digital works made with &hearts; in Urbana-Champaign, Illinois.
+url:           http://brianzelip.github.com/madewithloveinurbanachampaign
+destination:   _deploy
+markdown:      redcarpet
+permalink:     pretty
+pygments:      true
